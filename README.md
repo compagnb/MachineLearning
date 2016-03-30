@@ -1,6 +1,4 @@
-# Machine Learning
-# PSAM 5600
-# Spring 2016
+# PSAM 5600: Machine Learning, Spring 2016
 
 ## R/W Assignments
 ### [R/W Assignment 1: Predicting Anxiety Using Binary Classification](https://docs.google.com/document/d/15Nf49hNBZZAWTYnQV9ekZd65abDazUuGRF8SQiaC1iA/edit)
