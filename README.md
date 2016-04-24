@@ -6,14 +6,41 @@
 
 
 ## ML Assignments
-*  [Assignment 1: Classification](https://github.com/compagnb/MachineLearning/blob/master/Assignment1.md)
+*  [Assignment 1: Classification](https://github.com/compagnb/MachineLearning/blob/master/Assignment1/Assignment1.md)
    *   Dataset: Amazon Fine Food Reviews
-      *   The Amazon Fine Food Reviews dataset consists of 455,000 food reviews Amazon users left up to October 2012. 
+      *   The Amazon Fine Food Reviews dataset consists of 455,000 food reviews Amazon users left up to October 2012.
       *   Data source reference: J. McAuley and J. Leskovec. From amateurs to connoisseurs: modeling the evolution of user expertise through online reviews. WWW, 2013.
-   *   Task: Train a model to best predict helpful, a boolean indicator that a review was deemed helpful by other shoppers. This was defined as: (data.HelpfulnessDenominator > 3) & (data.helpScore >= 0.9) 
+   *   Task: Train a model to best predict helpful, a boolean indicator that a review was deemed helpful by other shoppers. This was defined as: (data.HelpfulnessDenominator > 3) & (data.helpScore >= 0.9)
+   *   Accuracy On Training Data
+      *
+   *   Accuracy On Test Set
+      *
+   *   Generalizing Beyond Test Set
+      *
+   *   Model Improvements
+      *
 
-*  [Assignment 2: Regression](https://github.com/compagnb/MachineLearning/blob/master/Assignment2.md)
-   *   Dataset: Salaries 
-      *   The salaries.csv dataset consists of 2,309 salaries in the U.S. and Canada of members of an unnamed professional organization. 
-   *   Task: Train a model to best predict salary. 
+*  [Assignment 2: Regression](https://github.com/compagnb/MachineLearning/blob/master/Assignment2/Assignment2.md)
+   *   Dataset: Salaries
+      *   The salaries.csv dataset consists of 2,309 salaries in the U.S. and Canada of members of an unnamed professional organization.
+   *   Task: Train a model to best predict salary.
+   *   Accuracy On Training Data
+      *
+   *   Accuracy On Test Set
+      *
+   *   Generalizing Beyond Test Set
+      *
+   *   Model Improvements
+      *
 
+*  [Assignment 3: clustering](https://github.com/compagnb/MachineLearning/blob/master/Assignment3/Assignment3.md)
+   *   Dataset: Amazon Reviews
+      *   The Amazon Fine Food Reviews dataset consists of 455,000 food reviews Amazon users left up to October 2012.
+      *   Data source reference: J. McAuley and J. Leskovec. From amateurs to connoisseurs: modeling the evolution of user expertise through online reviews. WWW, 2013.
+   *   Task: Using KMeans to create an Amazon product recommendation system based on user reviews. The system should cluster products based on patterns created by users who write multiple reviews.
+   *   Data Processing & Transformation
+      *
+   *   Choosing Cluster Amount
+      *
+   *   Model Improvements
+      *
