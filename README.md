@@ -12,26 +12,26 @@
       *   Data source reference: J. McAuley and J. Leskovec. From amateurs to connoisseurs: modeling the evolution of user expertise through online reviews. WWW, 2013.
    *   Task: Train a model to best predict helpful, a boolean indicator that a review was deemed helpful by other shoppers. This was defined as: (data.HelpfulnessDenominator > 3) & (data.helpScore >= 0.9)
    *   Accuracy On Training Data
-      *
+      *   TBD
    *   Accuracy On Test Set
-      *
+      *   TBD
    *   Generalizing Beyond Test Set
-      *
+      *   TBD
    *   Model Improvements
-      *
+      *   ![progress chart](https://github.com/compagnb/MachineLearning/blob/master/Assignment1/assignment1Progress.png)
 
 *  [Assignment 2: Regression](https://github.com/compagnb/MachineLearning/blob/master/Assignment2/Assignment2.md)
    *   Dataset: Salaries
       *   The salaries.csv dataset consists of 2,309 salaries in the U.S. and Canada of members of an unnamed professional organization.
    *   Task: Train a model to best predict salary.
    *   Accuracy On Training Data
-      *
+      *   TBD
    *   Accuracy On Test Set
-      *
+      *   TBD
    *   Generalizing Beyond Test Set
-      *
+      *   TBD
    *   Model Improvements
-      *
+      *   TBD
 
 *  [Assignment 3: clustering](https://github.com/compagnb/MachineLearning/blob/master/Assignment3/Assignment3.md)
    *   Dataset: Amazon Reviews
@@ -39,8 +39,8 @@
       *   Data source reference: J. McAuley and J. Leskovec. From amateurs to connoisseurs: modeling the evolution of user expertise through online reviews. WWW, 2013.
    *   Task: Using KMeans to create an Amazon product recommendation system based on user reviews. The system should cluster products based on patterns created by users who write multiple reviews.
    *   Data Processing & Transformation
-      *
+      *   TBD
    *   Choosing Cluster Amount
-      *
+      *   TBD
    *   Model Improvements
-      *
+      *   TBD
