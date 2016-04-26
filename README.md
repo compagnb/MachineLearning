@@ -19,14 +19,8 @@
    *   Dataset: Salaries
       *   The salaries.csv dataset consists of 2,309 salaries in the U.S. and Canada of members of an unnamed professional organization.
    *   Task: Train a model to best predict salary.
-   *   Accuracy On Training Data
-      *   TBD
-   *   Accuracy On Test Set
-      *   TBD
-   *   Generalizing Beyond Test Set
-      *   TBD
    *   Model Improvements
-      *   TBD
+      *   ![progress chart](https://github.com/compagnb/MachineLearning/blob/master/Assignment2/assignment2Progress.png)
 
 *  [Assignment 3: clustering](https://github.com/compagnb/MachineLearning/blob/master/Assignment3/Assignment3.md)
    *   Dataset: Amazon Reviews
