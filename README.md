@@ -14,6 +14,8 @@
    *   Task: Train a model to best predict helpful, a boolean indicator that a review was deemed helpful by other shoppers. This was defined as: (data.HelpfulnessDenominator > 3) & (data.helpScore >= 0.9)
    *   Model Improvements
       *   ![progress chart](https://github.com/compagnb/MachineLearning/blob/master/Assignment1/assignment1Progress.png)
+   *   [Final Model](https://github.com/compagnb/MachineLearning/blob/master/Assignment1/MLAssignment1_FinalModel.ipynb)
+      *   ![Final Write Up](https://docs.google.com/document/d/1HsnnNpIlBnS0Svxh-4lFQP1sCval4K8wG829J05LSxg/edit?usp=sharing)
 
 *  [Assignment 2: Regression](https://github.com/compagnb/MachineLearning/blob/master/Assignment2/Assignment2.md)
    *   Dataset: Salaries
@@ -21,15 +23,15 @@
    *   Task: Train a model to best predict salary.
    *   Model Improvements
       *   ![progress chart](https://github.com/compagnb/MachineLearning/blob/master/Assignment2/assignment2Progress.png)
+   *   [Final Model](https://github.com/compagnb/MachineLearning/blob/master/Assignment2/MLAssignment2_FinalModel.ipynb)
+         *   ![Final Write Up](https://docs.google.com/document/d/1lDLntFI_OxQAgOPozqe72eP7e0qQ_Wn7meA7ykzjB2M/edit?usp=sharing)
 
 *  [Assignment 3: clustering](https://github.com/compagnb/MachineLearning/blob/master/Assignment3/Assignment3.md)
    *   Dataset: Amazon Reviews
       *   The Amazon Fine Food Reviews dataset consists of 455,000 food reviews Amazon users left up to October 2012.
       *   Data source reference: J. McAuley and J. Leskovec. From amateurs to connoisseurs: modeling the evolution of user expertise through online reviews. WWW, 2013.
    *   Task: Using KMeans to create an Amazon product recommendation system based on user reviews. The system should cluster products based on patterns created by users who write multiple reviews.
-   *   Data Processing & Transformation
-      *   TBD
-   *   Choosing Cluster Amount
-      *   TBD
    *   Model Improvements
-      *   TBD
+      *   ![progress chart](https://github.com/compagnb/MachineLearning/blob/master/Assignment3/assignment3Progress.png)
+   *   [Final Model](https://github.com/compagnb/MachineLearning/blob/master/Assignment3/MLAssignment3_FinalModel.ipynb)
+         *   ![Final Write Up](https://docs.google.com/document/d/18vwS2V9AWUB9BVjHoqIRlNN0Ze7ZJlOralBerZK98SA/edit?usp=sharing)
